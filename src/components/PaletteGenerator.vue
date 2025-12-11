@@ -129,7 +129,6 @@ export default {
       return '#' + Math.floor(Math.random() * 16777215).toString(16).padStart(6, '0')
     }
 
-    // Генерация новой палитры
     const generateRandomPalette = () => {
       const newPalette = []
       for (let i = 0; i < colorCount.value; i++) {
@@ -144,7 +143,6 @@ export default {
       saveToLocalStorage()
     }
 
-    // Обновление количества цветов
     const updatePaletteCount = () => {
       if (currentPalette.value.length > colorCount.value) {
         currentPalette.value = currentPalette.value.slice(0, colorCount.value)
