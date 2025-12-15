@@ -1,38 +1,45 @@
-# color-palette-generator
+<!-- ===================== -->
+<!--        ШАПКА          -->
+<!-- ===================== -->
 
-This template should help get you started developing with Vue 3 in Vite.
+<p align="center">
+  <img src="photo.jpg" alt="Фото" width="150" />
+</p>
 
-## Recommended IDE Setup
+<h1 align="center">Фамилия Имя</h1>
+<p align="center"><b>Должность / Специализация</b></p>
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+<p align="center">
+  📍 Город, Страна · 📞 +7 (999) 000-00-00 · ✉️ email@example.com · 🌐 github.com/username
+</p>
 
-## Recommended Browser Setup
+---
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) 
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+<!-- ===================== -->
+<!--      ОСНОВНОЕ         -->
+<!-- ===================== -->
 
-## Customize configuration
+| **Основная информация** | **Дополнительная информация** |
+|-------------------------|--------------------------------|
+| ### 💼 Опыт работы      | ### 📇 Контакты                |
+| **Компания** — Должность  <br> _2022 – настоящее время_  <br> • Обязанность / достижение  <br> • Обязанность / достижение | • Email: email@example.com  <br> • Telegram: @username  <br> • GitHub: github.com/username |
+| **Компания** — Должность  <br> _2020 – 2022_  <br> • Обязанность / достижение | |
+|                         | ### 🌍 Языки                   |
+| ### 🎓 Образование      | • Русский — родной             |
+| **Учебное заведение**  <br> Специальность, год | • Английский — B2             |
+|                         |                                |
+| ### 📚 Курсы            | ### 🛠 Навыки                  |
+| • Название курса — платформа | • Навык 1                  |
+| • Название курса — платформа | • Навык 2                  |
+|                         | • Навык 3                      |
+| ### 🎯 О себе           |                                |
+| Кратко: кто вы, чем полезны компании, ваш фокус и цели. | ### ⭐ Качества |
+|                         | • Ответственность              |
+| ### 🎨 Хобби            | • Самообучаемость              |
+| • Хобби / интерес       | • Аналитическое мышление       |
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+---
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+<!-- ===================== -->
+<!--        КОНЕЦ           -->
+<!-- ===================== -->
