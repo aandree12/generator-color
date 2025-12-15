@@ -1,17 +1,23 @@
 <!-- ===================== -->
 <!--        ШАПКА          -->
 <!-- ===================== -->
-
-<p align="center">
-  <img src="photo.jpg" alt="Фото" width="150" />
-</p>
-
-<h1 align="center">Габдушов Ерлан</h1>
-<p align="center"><b>Фуллстек-разработчик</b></p>
-
-<p align="center">
-  📍 Россия · 📞 +7 (912) 345-67-89 · ✉️ erlan.dev@gmail.com · 🌐 github.com/erlangabdushov
-</p>
+<table>
+  <tr>
+    <td width="160">
+      <img src="photo.jpg" alt="Фото" width="150" />
+    </td>
+    <td>
+      <h1>Габдушов Ерлан</h1>
+      <p><b>Фуллстек-разработчик</b></p>
+      <p>
+        📍 Россия <br>
+        📞 +7 (912) 345-67-89 <br>
+        ✉️ erlan.dev@gmail.com <br>
+        🌐 github.com/erlangabdushov
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
