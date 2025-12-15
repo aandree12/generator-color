@@ -3,9 +3,7 @@
 <!-- ===================== -->
 <table width="100%">
   <tr>
-    <td width="160" valign="middle">
-      <img src="photo.jpg" alt="Фото" width="150" />
-    </td>
+
     <td valign="middle">
       <h1 style="margin-bottom: 4px;">Габдушов Ерлан</h1>
       <p style="margin-top: 0;"><b>Фуллстек-разработчик</b></p>
@@ -15,6 +13,9 @@
       📞 +7 (912) 345-67-89<br>
       ✉️ erlan.dev@gmail.com<br>
       🌐 github.com/erlangabdushov
+    </td>
+    <td width="160" valign="middle">
+      <img src="photo.jpg" alt="Фото" width="150" />
     </td>
   </tr>
 </table>
